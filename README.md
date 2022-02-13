@@ -8,17 +8,19 @@
   ⚡ Fun fact: I have a degree in Civil Engineering <br>
   📩 E-mail: <a href="mailto:pedromateus18@hotmail.com">pedromateus18@hotmail.com</a> <br>
 
-  ## 
+
   <div align = "center">
     <img width="380" src="https://github-readme-stats.vercel.app/api?username=lumifere&show_icons=true&theme=tokyonight&hide=issues&count_private=true">
     <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumifere&layout=compact&langs_count=5&theme=tokyonight">
     </div> <br>
     <div align = "center" style="display: inline_block">
     <img align="center" alt="Icon C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="Icon C++" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img align="center" alt="Icon C++" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align= "center" alt="Icon VSC" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </div> 
   <br>
   
+  ##
   <div align = "center"> 
     <b> Contact me: </b> <br>
     <a href="https://www.linkedin.com/in/ormesino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
