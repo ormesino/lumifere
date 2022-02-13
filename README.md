@@ -10,8 +10,8 @@
 
   ## 
   <div align = "center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=lumifere&show_icons=true&theme=tokyonight&hide=issues&count_private=true">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumifere&layout=compact&langs_count=5&theme=tokyonight">
+    <img width="380" src="https://github-readme-stats.vercel.app/api?username=lumifere&show_icons=true&theme=tokyonight&hide=issues&count_private=true">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumifere&layout=compact&langs_count=5&theme=tokyonight">
     </div> <br>
     <div align = "center" style="display: inline_block">
     <img align="center" alt="Icon C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
