@@ -1,7 +1,7 @@
 <samp>
   <h1> 👋 Hello! I'm Pedro Mateus. </h1>
 
-  About me: <br>
+  <b>About me:</b><br>
   🎓 Computer Science student at Federal University of Rio de Janeiro <a href="https://ufrj.br/en/">(UFRJ)</a> <br>
   ✍ Learning C and C++ <br>
   🧑 Pronouns: he/him <br>
