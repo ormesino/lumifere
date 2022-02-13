@@ -25,5 +25,8 @@
     <a href="https://www.twitter.com/lumifere" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> &nbsp;
     <a href="https://discordapp.com/users/celino#2492" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> &nbsp;
     <a href="https://www.twitch.tv/celino" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/celino" target="_blank"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" target="_blank"></a>
   </div>
 </samp>
+
+
