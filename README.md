@@ -1,11 +1,3 @@
-  <ul>
-    <li> my name is Leonardo de Melo Soares, I am brazilian, and 19 years old </li>
-    <li> I am currently studying computer science at  (UFRJ) </li>
-    <li> I like to play games, watch anime and listen to some music (I love Aurora) </li>
-  </ul>
-
-
-  
 ## Hi there! My name's Pedro Mateus.
 
 About me: <br>
