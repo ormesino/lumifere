@@ -3,7 +3,7 @@
 
   <b> About me: </b><br>
   🎓 Computer Science student at Federal University of Rio de Janeiro <a href="https://ufrj.br/en/">(UFRJ)</a> <br>
-  ✍ Learning C and C++ <br>
+  ✍ Learning C++, HTML, CSS and JS <br>
   🧑 Pronouns: he/him <br>
   ⚡ Fun fact: I have a degree in Civil Engineering <br>
   📩 E-mail: <a href="mailto:pedromateus18@hotmail.com">pedromateus18@hotmail.com</a> <br>
