@@ -3,7 +3,7 @@
 
   <b> About me: </b><br>
   🎓 Computer Science student at Federal University of Rio de Janeiro <a href="https://ufrj.br/en/">(UFRJ)</a> <br>
-  ✍ Learning C++, HTML, CSS and JS <br>
+  ✍ Learning JS, Node and Docker <br>
   🧑 Pronouns: he/him <br>
   ⚡ Fun fact: I have a degree in Civil Engineering <br>
   📩 E-mail: <a href="mailto:pedromateus18@hotmail.com">pedromateus18@hotmail.com</a> <br>
@@ -12,11 +12,17 @@
   <div align = "center">
     <img width="380" src="https://github-readme-stats.vercel.app/api?username=lumifere&show_icons=true&theme=tokyonight&hide=issues&count_private=true">
     <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumifere&layout=compact&langs_count=5&theme=tokyonight">
-    </div> <br>
-    <div align = "center" style="display: inline_block">
+  </div> 
+  <br>
+  <div align = "center" style="display: inline_block">
+    <img align="center" alt="Icon Node" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Icon JS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Icon HTML" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="Icon CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="Icon Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />      
     <img align="center" alt="Icon C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="Icon C++" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align= "center" alt="Icon VSC" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img align= "center" alt="Icon VSC" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   </div> 
   <br>
   
