@@ -2,7 +2,8 @@
   <h1> 👋 Hello! I'm Pedro Mateus. </h1>
 
   <b> About me: </b><br>
-  🎓 Computer Science student at Federal University of Rio de Janeiro <a href="https://ufrj.br/en/">(UFRJ)</a> <br>
+  🎓 Computer Science student at Federal University of Rio de Janeiro [(UFRJ)](https://ufrj.br/en/) <br>
+  💼 Currently Tech Lead at [EJCM](https://ejcm.com.br/) <br>
   ✍ Learning JS, Node.js and Docker <br>
   🧑 Pronouns: he/him <br>
   ⚡ Fun fact: I have a degree in Civil Engineering <br>
