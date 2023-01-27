@@ -4,39 +4,33 @@
   <b> About me: </b><br>
   🎓 Computer Science student at Federal University of Rio de Janeiro [(UFRJ)](https://ufrj.br/en/) <br>
   💼 Currently Tech Lead at [EJCM](https://ejcm.com.br/) <br>
-  ✍ Learning JS, Node.js and Docker <br>
+  ✍ Learning TypeScript, Node.js and React <br>
   🧑 Pronouns: he/him <br>
   ⚡ Fun fact: I have a degree in Civil Engineering <br>
-  📩 E-mail: <a href="mailto:pedromateus18@hotmail.com">pedromateus18@hotmail.com</a> <br>
 
-
-  <div align = "center">
+  <div align="center">
     <img width="380" src="https://github-readme-stats.vercel.app/api?username=ormesino&show_icons=true&theme=tokyonight&hide=issues&count_private=true">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ormesino&layout=compact&langs_count=5&theme=tokyonight">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ormesino&layout=compact&langs_count=4&theme=tokyonight">
   </div> 
   <br>
   <div align = "center" style="display: inline_block">
-    <img align="center" alt="Icon Node" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    <img align="center" alt="Icon JS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="Icon HTML" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img align="center" alt="Icon CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    <img align="center" alt="Icon Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>      
-    <img align="center" alt="Icon C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-    <img align="center" alt="Icon Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img align="center" alt="Icon C++" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-    <img align="center" alt="Icon VSC" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+    <img align="center" alt="Icon JS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Icon TS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="Icon Node" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Icon React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="Icon HTML" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="Icon CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="Icon Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="Icon Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />      
+    <img align="center" alt="Icon C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   </div> 
   <br>
   
   ##
+  
   <div align = "center"> 
     <b> Contact me: </b> <br>
     <a href="https://www.linkedin.com/in/ormesino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.twitter.com/lumifere" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <a href="https://discordapp.com/users/celino#2492" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://www.twitch.tv/celino" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">
+    <a href="mailto:pedromateus18@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div>
 </samp>
-
-
