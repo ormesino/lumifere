@@ -11,8 +11,8 @@
 
 
   <div align = "center">
-    <img width="380" src="https://github-readme-stats.vercel.app/api?username=lumifere&show_icons=true&theme=tokyonight&hide=issues&count_private=true">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumifere&layout=compact&langs_count=5&theme=tokyonight">
+    <img width="380" src="https://github-readme-stats.vercel.app/api?username=ormesino&show_icons=true&theme=tokyonight&hide=issues&count_private=true">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ormesino&layout=compact&langs_count=5&theme=tokyonight">
   </div> 
   <br>
   <div align = "center" style="display: inline_block">
