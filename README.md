@@ -4,7 +4,7 @@
   <b> About me: </b><br>
   🎓 Computer Science student at Federal University of Rio de Janeiro [(UFRJ)](https://ufrj.br/en/) <br>
   💼 Currently Tech Lead at [EJCM](https://ejcm.com.br/) <br>
-  ✍ Learning TypeScript, Node.js and React <br>
+  ✍ Learning JavaScript, TypeScript, Node.js and React <br>
   🧑 Pronouns: he/him <br>
   ⚡ Fun fact: I have a degree in Civil Engineering <br>
 
