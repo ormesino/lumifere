@@ -10,7 +10,7 @@
 
   <div align="center">
     <img width="380" src="https://github-readme-stats.vercel.app/api?username=ormesino&show_icons=true&theme=tokyonight&hide=issues&count_private=true">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ormesino&layout=compact&langs_count=4&theme=tokyonight">
+    <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ormesino&layout=compact&theme=tokyonight&hide=c&langs_count=4">
   </div> 
   <br>
   <div align = "center" style="display: inline_block">
