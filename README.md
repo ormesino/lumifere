@@ -1,10 +1,10 @@
 <samp>
-  <h1> 👋 Hello! I'm Pedro Mateus. </h1>
+  <h1> 👋 Hi, my name is Pedro Mateus! </h1>
 
   <b> About me: </b><br>
-  🎓 Computer Science student at Federal University of Rio de Janeiro [(UFRJ)](https://ufrj.br/en/) <br>
-  💼 Currently Tech Lead at [EJCM](https://ejcm.com.br/) <br>
-  ✍ Learning JavaScript, TypeScript, Node.js and React <br>
+  🎓 I study Computer Science at the Federal University of Rio de Janeiro <b> [(UFRJ)](https://ufrj.br/en/) </b> <br>
+  💼 I am a Backend Developer at <b> [EJCM](https://ejcm.com.br/) </b> <br>
+  ✍ Currently learning JavaScript, TypeScript, Node.js and React <br>
   🧑 Pronouns: he/him <br>
   ⚡ Fun fact: I have a degree in Civil Engineering <br>
 
@@ -25,7 +25,7 @@
     <img align="center" alt="Icon C" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" alt="Icon Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </div> 
-  <br>
+  
   
   ##
   
