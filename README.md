@@ -26,12 +26,13 @@
     <img align="center" alt="Icon Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </div> 
   
-  
+
   ##
   
   <div align = "center"> 
     <b> Contact me: </b> <br>
-    <a href="https://www.linkedin.com/in/ormesino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto:pedromateus18@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ormesino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href="https://www.hackerrank.com/ormesino" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>   
   </div>
 </samp>
