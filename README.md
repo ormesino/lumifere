@@ -9,7 +9,7 @@
 
   <div align="center">
     <img width="380" src="https://readme-stats-ten-pi.vercel.app/api?username=ormesino&show_icons=true&theme=tokyonight&hide=issues&count_private=true">
-    <img width="auto" src="https://readme-stats-ten-pi.vercel.app/api/top-langs/?username=ormesino&layout=compact&theme=tokyonight&hide=c&langs_count=4">
+    <img width="auto" src="https://readme-stats-ten-pi.vercel.app/api/top-langs/?username=ormesino&layout=compact&theme=tokyonight&langs_count=4">
   </div> 
   <br>
   <div align = "center" style="display: inline_block">
