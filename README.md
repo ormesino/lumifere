@@ -2,10 +2,11 @@
   <h1> 👋 Hi, my name is Pedro Mateus! </h1>
 
   <b> About me: </b><br>
-  🎓 I study Computer Science at the Federal University of Rio de Janeiro <b> [(UFRJ)](https://ufrj.br/en/) </b> <br>
-  💼 I am a Back-end Developer at <b> [EJCM](https://ejcm.com.br/) </b> <br>
-  ✍ Currently learning JavaScript, TypeScript, Node.js and React <br>
-  🧑 Pronouns: he/him <br>
+  🎓 I study Computer Science at the Federal University of Rio de Janeiro <b> [(UFRJ)](https://ufrj.br/en/) <br>
+  💼 I am a Back-end Developer at <b> [EJCM](https://ejcm.com.br/) <br>
+  🤩 Enthusiastic about software development and data science <br>
+  📖 Currently learning JavaScript, TypeScript, Node.js and React <br>
+  🚹 Pronouns: he/him <br>
 
   <div align="center">
     <img width="380" src="https://readme-stats-ten-pi.vercel.app/api?username=ormesino&show_icons=true&theme=tokyonight&hide=issues&count_private=true">
