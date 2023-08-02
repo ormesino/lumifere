@@ -3,7 +3,6 @@
 
   <b> About me: </b><br>
   🎓 I study Computer Science at the Federal University of Rio de Janeiro <b> [(UFRJ)](https://ufrj.br/en/) <br>
-  💼 I am a Back-end Developer at <b> [EJCM](https://ejcm.com.br/) <br>
   🤩 Enthusiastic about software development and data science <br>
   📖 Currently learning JavaScript, TypeScript, Node.js and React <br>
   🚹 Pronouns: he/him <br>
