@@ -4,7 +4,8 @@
   <b> About me: </b><br>
   🎓 I study Computer Science at the Federal University of Rio de Janeiro <b> [(UFRJ)](https://ufrj.br/en/) <br>
   🤩 Enthusiastic about software development and data science <br>
-  📖 Currently learning JavaScript, TypeScript, Node.js and React <br>
+  💼 Trainee at UFRJ Analytica
+  📖 Currently learning some concepts about Data Analysis, Flask, Vue.js and Django <br>
   🚹 Pronouns: he/him <br>
 
   <div align="center">
