@@ -5,7 +5,7 @@
   🎓 I study Computer Science at the Federal University of Rio de Janeiro <b> [(UFRJ)](https://ufrj.br/en/) <br>
   🤩 Enthusiastic about software development and data science <br>
   💼 Trainee at UFRJ Analytica <br>
-  📖 Currently learning some concepts about Data Analysis, Flask, Vue.js and Django <br>
+  📖 Currently learning some concepts about Data Analysis, Flask and Vue.js <br>
   🚹 Pronouns: he/him <br>
 
   <div align="center">
