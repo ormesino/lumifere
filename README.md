@@ -5,7 +5,7 @@
   🎓 I study Computer Science at the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/en/) <br>
   🤩 Enthusiastic about software development, algorithms and complex problems <br>
   💼 Full Stack Developer at [Minerv@s Digitais](https://www.instagram.com/minervasdigitaisufrj/) <br>
-  📖 Currently learning about Concurrency, Parallelism and Java <br>
+  📖 Currently learning about Concurrency, Parallelism and Go <br>
   🚹 Pronouns: he/him <br>
 
   <div align="center">
